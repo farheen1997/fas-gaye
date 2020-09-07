@@ -5,7 +5,7 @@ pipeline {
         stage('stage1') {
             steps {
                 echo 'Hello ,my frist pipline'
-                echo 'testing pipline'
+                echo 'testing'
             }
         }
     }
